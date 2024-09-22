@@ -6,4 +6,8 @@ App has text inputs to allow adding text to top and bottom of meme image.
 Use of state to update text overlay on image as it is being typed.
 
 ## Tutorial Topics
-* 
+* Event listeners
+* State
+* Conditional rendering
+* Forms
+* Managing side effects
